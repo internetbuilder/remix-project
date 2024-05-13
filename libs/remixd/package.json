@@ -40,7 +40,7 @@
     "@remixproject/plugin-utils": "^0.3.11",
     "@remixproject/plugin-ws": "^0.3.11",
     "axios": ">=0.21.1",
-    "chokidar": "^2.1.8",
+    "chokidar": "^3.0.0",
     "commander": "^2.20.3",
     "fs-extra": "^3.0.1",
     "isbinaryfile": "^3.0.2",
