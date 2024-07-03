@@ -135,7 +135,7 @@
     "@ethereumjs/block": "^3.4.0",
     "@ethereumjs/common": "^2.4.0",
     "@ethereumjs/tx": "^3.3.0",
-    "@ethereumjs/vm": "^5.5.0",
+    "@ethereumjs/vm": "^6.1.0",
     "@remixproject/engine": "^0.3.17",
     "@remixproject/engine-web": "^0.3.17",
     "@remixproject/plugin": "^0.3.17",
