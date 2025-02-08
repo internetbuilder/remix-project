@@ -28,7 +28,7 @@
     "commander": "^2.19.0",
     "deep-equal": "^1.0.1",
     "ethereumjs-util": "^7.0.10",
-    "ethers": "^5.4.2",
+    "ethers": "^6.0.0",
     "string-similarity": "^4.0.4",
     "web3": "^1.5.1"
   },
